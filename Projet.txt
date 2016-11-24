@@ -1,0 +1,18 @@
+Application pour selectionner les attributs du client. Et donner le style a appliquer au client.
+
+(Page de login)
+- Page du client
+-> Nom, âge, téléphone, mail, taille, poids, couleur yeux/cheveux, teint, photo.
+- Page pour modifier un client
+- Page pour supprimer un client
+
+- Colorimétrie
+-> Base de données des teints 
+-> Base de données des couleurs
+-> Page HTML avec résultat
+
+- Personnalitée
+-> Base de données des styles
+
+- Ajout 
+-> Page HTML pour l'ajout
